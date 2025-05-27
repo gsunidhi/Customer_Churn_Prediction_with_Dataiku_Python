@@ -32,12 +32,6 @@ This project demonstrates an end-to-end customer churn prediction pipeline using
 
 ---
 
-## 📊 Dashboards
-
-![Churn Dashboard](dashboards/churn_dashboard.png)
-
----
-
 ## 🔧 Python Recipes
 
 - `feature_engineering.py`: Creates new features
@@ -52,12 +46,6 @@ This project demonstrates an end-to-end customer churn prediction pipeline using
   - Builds features
   - Scores model
   - Exports customers with churn score > 0.8
-
----
-
-## 🖼️ Flow Overview
-
-![Flow Screenshot](flow/dataiku_flow.png)
 
 ---
 
